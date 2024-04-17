@@ -5,6 +5,8 @@
 using namespace System;
 using namespace std;
 
+// ESTA CLASE TIENE METODOS QUE SIRVEN SOLO PARA EL TEMA DE LA ESTÉTICA, como cambiar el color al texto, fondo, etc.
+// Todo parametrizado para RGB, así salen los colores más piolas xd
 class Helper {
 private:
     HANDLE consoleHandle;
